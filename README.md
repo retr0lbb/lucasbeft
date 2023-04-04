@@ -28,13 +28,16 @@
   
  ### IDEs:
   
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&labelColor=0D1117&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&logoColor=007ACC)
+  
   </div>
 <div align="center"><h2>About Me:</h2></div>
 
 -My name is Lucas Bezerra de Freitas, I'm 18 years old, I live in São Paulo, São Paulo Brazil.<br>
 -📚 Intend to: Software Engineering.<br>
 -💬 Ask me about: **PYTHON, CSS, HTML, MUSCLES**.<br>
--🎮 Hobbies: Play games, Program, Bodybuilding, Movies and Books<br>
+-🎮 Hobbies: Play games, Program, Bodybuilding, Movies and Books.<br>
 
 
 
