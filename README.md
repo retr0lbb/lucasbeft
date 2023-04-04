@@ -34,7 +34,7 @@
 -My name is Lucas Bezerra de Freitas, I'm 18 years old, I live in São Paulo, São Paulo Brazil.<br>
 -📚 Intend to: Software Engineering.<br>
 -💬 Ask me about: **PYTHON, CSS, HTML, MUSCLES**.<br>
--🎮 Hobbies: Play games, Program, Bodybuilding and Movies<br>
+-🎮 Hobbies: Play games, Program, Bodybuilding, Movies and Books<br>
 
 
 
@@ -43,7 +43,7 @@
 
 <a href="mailto:lucasbeft@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/luscazbez/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/henrique-barbosa-b04240227"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lucas-bezerra-203464244"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://t.me/seewey"><img src="https://img.shields.io/badge/Telegram-%233498DB.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;&nbsp;
 
 </div>
