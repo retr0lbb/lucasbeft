@@ -31,7 +31,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&labelColor=0D1117&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&logoColor=007ACC)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&labelColor=0D1117&logoColor=90E59A)
-  
+  a
   </div>
 <div align="center"><h2>About Me:</h2></div>
 
