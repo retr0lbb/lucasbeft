@@ -44,6 +44,5 @@
 <a href="mailto:lucasbeft@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/luscazbez/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lucas-bezerra-203464244"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://t.me/seewey"><img src="https://img.shields.io/badge/Telegram-%233498DB.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;&nbsp;
 
 </div>
